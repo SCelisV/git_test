@@ -1,0 +1,1 @@
+el gitignore ignorara todas lo que no quiero que administre git
